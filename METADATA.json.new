@@ -1,0 +1,23 @@
+{
+  "name": "Federant",
+  "designer": "Cyreal",
+  "license": "OFL",
+  "visibility": "External",
+  "category": "Display",
+  "size": 37842,
+  "fonts": [
+    {
+      "name": "UNKNOWN",
+      "style": "normal",
+      "weight": 500,
+      "filename": "Federant-Medium.ttf",
+      "postScriptName": "Federant-Medium",
+      "fullName": "Federant-Medium",
+      "copyright": "Copyright (c) 2011, Cyreal (www.cyreal.org)\rwith Reserved Font Name \"Federant\" and \"Federant Medium\"\r\rThis Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL"
+    }
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "dateAdded": "2011-10-05"
+}
